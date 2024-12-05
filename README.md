@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SoOrdinary
+- :mortar_board: I am a 2022 undergraduate student studying at the UESTC of China
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning kotlin and more
 - 💞️ I’m looking to collaborate on ???
