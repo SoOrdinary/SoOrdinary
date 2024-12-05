@@ -3,5 +3,5 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning kotlin and more
 - 💞️ I’m looking to collaborate on ???
-- 📫 If there is anything, please contact me by email 1771475441@qq.com
+- 📫 If there is anything, please contact me by email soordinary@foxmail.com
 - ⚡ Fun fact: program and League of Legends
