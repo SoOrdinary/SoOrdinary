@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoOrdinary
+- 👋 Hi, I’m @YaneLiu
 - 🎓 I am a 2022 undergraduate student studying at the UESTC of China
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning kotlin and more
