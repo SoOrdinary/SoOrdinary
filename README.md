@@ -3,4 +3,4 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning kotlin and more
 - ⚡ Fun fact: program and League of Legends
-- 📫 If there is anything, please contact me by email yaneliu@foxmail.com
+- 📫 If there is anything, please contact me by email soordinary@foxmail.com
