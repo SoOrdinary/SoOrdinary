@@ -1,6 +1,6 @@
 - 👋 你好，我是 @Yane
-- 🎓 就读于电子科技大学[UESTC]
-- 👀 2026届校招加入腾讯WXG，从事社交业务开发
-- 🌱 正在学习kotlin和更多知识
+- 🎓 就读于 UESTC 电子科技大学
+- 👀 2026 届校招加入腾讯 WXG ，从事社交业务开发
+- 🌱 正在学习 kotlin 和更多知识
 - ⚡ 喜欢玩英雄联盟
-- 📫 如果有任何想法，欢迎发送邮件至soordinary@foxmail.com
+- 📫 如果有任何想法，欢迎发送邮件至 soordinary@foxmail.com
