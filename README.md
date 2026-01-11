@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yane
-- 🎓 I am a 2022 undergraduate student studying at the UESTC of China
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning kotlin and more
-- ⚡ Fun fact: program and League of Legends
-- 📫 If there is anything, please contact me by email soordinary@foxmail.com
+- 👋 你好，我是 @Yane
+- 🎓 就读于电子科技大学[UESTC]
+- 👀 2026届校招加入腾讯WXG，从事社交业务开发
+- 🌱 正在学习kotlin和更多知识
+- ⚡ 喜欢玩英雄联盟
+- 📫 如果有任何想法，欢迎发送邮件至soordinary@foxmail.com
